@@ -1,6 +1,6 @@
 ## Welcome to posup
 
-Commup is integrated application from stock, warehouse management, sales and casier developend using Microsoft ASP.NET MVC.
+PosUp is integrated application from stock, warehouse management, sales and casier developend using Microsoft ASP.NET MVC.
 
 ### Features
 1. Product record with barcode system
