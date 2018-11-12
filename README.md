@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to posup
 
-You can use the [editor on GitHub](https://github.com/sugadotnet/posup/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+PosUp is integrated application from stock, warehouse management, sales and casier developend using Microsoft ASP.NET MVC.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
+1. Product record with barcode system
+2. Wharehouse management.
+3. Product allocation.
+4. Product Display.
+5. Product sales and payment.
+6. Dashboard base monitoring.
 
-### Markdown
+### System Requirement
+1. Windos operating system with IIS.
+2. Microsoft SQL Server Express Edition.
+3. 2GB Memory
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sugadotnet/posup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Installation
+1. Restore database APPBASEDB.bak
+2. Deploy files in folder dist into IIS
+3. Adjust connection string by modifying "web.config" file.
