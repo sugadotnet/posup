@@ -1,4 +1,4 @@
-## Welcome to Commup
+## Welcome to posup
 
 Commup is integrated application from stock, warehouse management, sales and casier developend using Microsoft ASP.NET MVC.
 
